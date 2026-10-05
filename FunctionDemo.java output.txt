@@ -1,0 +1,8 @@
+Add two integers :20
+Add three integers :113
+Add two doubles :7.3
+Name :unknown, Age :0
+Name :manish, Age :19
+Name :manish, Age :19
+Student  s4 details(refrence to s2):
+Name :manish, Age :19
